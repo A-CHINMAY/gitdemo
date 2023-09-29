@@ -1,4 +1,4 @@
 # 1st-project
-1st repositary
+1st repository
 <br>
 Techie-Chinmay
